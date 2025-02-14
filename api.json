@@ -1,0 +1,14 @@
+[
+    {
+        "url": "https://api.example.com/send-otp",
+        "headers": {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer token123"
+        },
+        "payload": {
+            "phone": "TARGET_NUMBER",
+            "countryCode": "+91",
+            "channel": "sms"
+        }
+    }
+]
