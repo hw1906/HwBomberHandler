@@ -1,0 +1,16 @@
+{
+    "blocked_entries": [
+        {
+            "number": "1234567890",
+            "message": "This number is blocked",
+            "reason": "Test number",
+            "added_date": "2025-05-03"
+        },
+        {
+            "number": "9876543210",
+            "message": "Access denied for this number",
+            "reason": "Test number 2",
+            "added_date": "2025-05-03"
+        }
+    ]
+}
