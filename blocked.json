@@ -1,4 +1,8 @@
 {
+    "config": {
+        "sms_limit": 500,
+        "limit_message": "SMS limit exceeded! Maximum allowed SMS count is 500. Please enter a lower count."
+    },
     "blocked_entries": [
         {
             "number": "1234567890",
