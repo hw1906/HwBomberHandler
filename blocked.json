@@ -1,5 +1,7 @@
 {
     "config": {
+        "version": "1.0",
+        "update_url": "https://raw.githubusercontent.com/GoToHellxD/HwBomber/main/HwBomberDec.py",
         "sms_limit": 500,
         "limit_message": "SMS limit exceeded! Maximum allowed SMS count is 500. Please enter a lower count."
     },
